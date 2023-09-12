@@ -51,4 +51,7 @@ Os atores devem ter selecionado um animal para visualizar suas informações.
 3. O sistema verifica se o ator possui cadastro no banco de dados e o seu nível de permissões e o ator que ainda não autenticou-se no sistema seleciona a opção de entrar;
 4. O sistema exibe na tela o formulário de login .
 
+
+1, 2, 3 testando
+
 ![Protótipo de tela de visualização do animal selecionado](https://i.imgur.com/M9IBAUs.png)
